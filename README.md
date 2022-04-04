@@ -19,6 +19,6 @@ homework<br/>
   </p>
   
 <b>Question 3</b><br/>
-<p?Which XML attribute do you use to define the width of the LinearLayout inside the scrolling view?<br/>
+<p>Which XML attribute do you use to define the width of the LinearLayout inside the scrolling view?<br/>
 -> android:layout_width="match_parent"
 </p>
